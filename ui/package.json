@@ -1,0 +1,32 @@
+{
+  "name": "@hellmo/ui",
+  "version": "0.0.1",
+  "description": "A UI library for hEllmo",
+  "author": "markjotep",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    }
+  },
+  "keywords": [
+    "hellmo",
+    "js",
+    "bun"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARKjotep/hellmo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MARKjotep/hellmo/issues"
+  },
+  "homepage": "https://github.com/MARKjotep/hellmo#readme",
+  "dependencies": {
+    "hellmo": "^0.0.2"
+  }
+}
