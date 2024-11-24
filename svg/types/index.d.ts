@@ -1,0 +1,24 @@
+export declare const burger: (a?: attr) => import("hellmo").Dom;
+export declare const split: (a?: attr) => import("hellmo").Dom;
+export declare const back: (a?: attr) => import("hellmo").Dom;
+export declare const forward: (a?: attr) => import("hellmo").Dom;
+export declare const plus: (a?: attr) => import("hellmo").Dom;
+export declare const theme: {
+    moon(a?: attr): import("hellmo").Dom;
+    sun(a?: attr): import("hellmo").Dom;
+};
+export declare const logo: (a?: attr) => import("hellmo").Dom;
+export declare const popcorn: (a?: attr) => import("hellmo").Dom;
+export declare const history: (a?: attr) => import("hellmo").Dom;
+export declare const search: (a?: attr) => import("hellmo").Dom;
+export declare const short: (a?: attr) => import("hellmo").Dom;
+export declare const movies: (a?: attr) => import("hellmo").Dom;
+export declare const setting: (a?: attr) => import("hellmo").Dom;
+export declare const ThreeDots: (a?: attr) => import("hellmo").Dom;
+export declare const close: (a?: attr) => import("hellmo").Dom;
+export declare const watchlist: (a?: attr) => import("hellmo").Dom;
+export declare const star: (a?: attr) => import("hellmo").Dom;
+export declare const rabbit: (a?: attr) => import("hellmo").Dom;
+export declare const account: (a?: attr) => import("hellmo").Dom;
+export declare const account_plus: (a?: attr) => import("hellmo").Dom;
+export declare const sort_arrow: (a?: attr) => import("hellmo").Dom;

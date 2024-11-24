@@ -20,13 +20,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MARKjotep/hellmo.git"
+    "url": "git+https://github.com/MARKjotep/-hellmo.git"
   },
   "bugs": {
-    "url": "https://github.com/MARKjotep/hellmo/issues"
+    "url": "https://github.com/MARKjotep/-hellmo/issues"
   },
-  "homepage": "https://github.com/MARKjotep/hellmo#readme",
+  "homepage": "https://github.com/MARKjotep/-hellmo#readme",
   "dependencies": {
     "hellmo": "^0.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
